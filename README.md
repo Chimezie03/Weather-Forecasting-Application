@@ -1,6 +1,6 @@
 # Weather Forecast Application
 
-This Flask web application provides the current weather information for any city in the United States. The app uses the OpenWeather API to fetch weather data and displays the result in Fahrenheit.
+This Flask web application provides the current weather information for any city in the United States. The app uses the OpenWeather API to fetch weather data.
 
 ## Features
 - Search weather information by city
